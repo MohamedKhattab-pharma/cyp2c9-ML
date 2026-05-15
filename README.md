@@ -10,7 +10,7 @@ A end-to-end cheminformatics and machine learning pipeline for predicting **CYP2
 
 Predicting CYP2C9 inhibition computationally before a compound reaches the lab is therefore valuable both for drug safety screening and early-stage drug discovery. This project builds a binary classifier to distinguish **Active (Strong/Moderate)** inhibitors from **Non-inhibitors**, using molecular fingerprints and Lipinski descriptors as features.
 
-**Data source:** PubChem Bioassay [AID: 777](https://pubchem.ncbi.nlm.nih.gov/bioassay/777) — a high-throughput screen measuring CYP2C9 inhibition (% inhibition at 5 µM).
+**Data source:** PubChem Bioassay [AID: 777](https://pubchem.ncbi.nlm.nih.gov/bioassay/777) - a high-throughput screen measuring CYP2C9 inhibition (% inhibition at 5 µM).
 
 ---
 
