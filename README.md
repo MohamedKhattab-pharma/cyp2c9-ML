@@ -157,7 +157,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn rdkit 
 
 ## What's Next
 
-The next phase of this project will:
+The next phase of this project will, keep posted for the next repo, where we get in depth using GNN, Advanced ML and external validations and predictions!:
 
 - Save the best-performing model to disk
 - Test the model on **known CYP2C9 inhibitors** from literature
